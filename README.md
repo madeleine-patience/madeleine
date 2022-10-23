@@ -13,8 +13,6 @@
 
 
 
-<p><img align="center"> src="https://github-readme-stats.vercel.app/api/top-langs?username=madeleinebelanger&show_icons=true&locale=en&layout=compact" alt="madeleinebelanger" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madeleinebelanger&show_icons=true&locale=en" alt="madeleinebelanger" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madeleinebelanger&" alt="madeleinebelanger" /></p>
