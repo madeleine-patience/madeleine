@@ -5,7 +5,7 @@
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madeleinebelanger" alt="madeleinebelanger" /></a> </p>
  -->
-<p align="left"> <a href="https://twitter.com/madeleinebelan1" target="blank"><img src="https://img.shields.io/twitter/follow/madeleinebelan1?logo=twitter&style=for-the-badge" alt="madeleinebelan1" /></a> </p>
+<img src= "https://64.media.tumblr.com/3a259312bfdee844e652e9553a947d4e/tumblr_pr0q2yy6J91y5cc1bo1_540.gif" >
 
 - 🔭 I’m currently working on **learning react and working on algorithms.**
 
