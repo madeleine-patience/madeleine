@@ -7,6 +7,4 @@
 
 - 🌱 I’m currently learning **React and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://madeleinebelanger.netlify.app/](https://madeleinebelanger.netlify.app/)
-
 - 📫 How to reach me **madeleinepbelanger@gmail.com**
