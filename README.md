@@ -7,4 +7,3 @@
 
 - 🌱 I’m currently learning **React and Typescript**
 
-- 📫 How to reach me **madeleinepbelanger@gmail.com**
